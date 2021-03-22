@@ -1,0 +1,37 @@
+{
+
+	"bodies": [{
+		"title": "What’s Nicco App? ",
+		"step": "Nico App is an application that helps you get a better in-game experience for free fire. When you enter the game"
+	}, {
+		"title": "Enter the battle",
+		"step": "Enter the battle, then you can see the skins, More function: You can also change the crosshair when you enter the battlefield. "
+	}, {
+		"title": "Choose the skin",
+		"step": "Choose the skin via the floating window. You can also try the skins from the store. We will remember your choices and you can see them after you return to the lobby."
+
+	}, {
+		"title": "Start",
+		"step": "make sure you downloaded the resources in the game’s download centre, then download an open the nicoo app. Click the button above to start free fire. "
+
+	}, {
+		"title": "About The Game",
+		"step": "FF is one of the most famous and top-rated battle royal games for Android. It offers lots of amazing items for free. But there is more attractive and amazing paid stuff for the players in the game."
+	}, {
+		"title": "How To Download",
+		"step": "The tool provides stuff for every character. It has tons of things that you can avail of. So, download the latest version of the app to get benefits."
+        }],
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+	"admob_native":"ca-app-pub-3940256099942544/2247696110",
+
+	"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"whichAds": 1,
+	
+	"link":"https://play.google.com/store/apps/details?id=com.webprancer.google.garfieldFit",
+	"status":false
+
+
+}
